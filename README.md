@@ -3,6 +3,12 @@
 
 prototype of physics-based nerf editing
 
+### Data Preparation
+DTU: we provide proccessed data on google drive. 
+Link: https://drive.google.com/drive/folders/19hmE0WvYfw-eKXObTCK065rojphr_0iQ?usp=drive_link
+
+NeRF-Synthetic: use code in code/dataset/...
+
 ### How to Run
 
 Terminal Commands
