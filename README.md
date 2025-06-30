@@ -1,5 +1,4 @@
-# PointSDF_new
-# PointSDF
+# CEI-3D
 
 prototype of physics-based nerf editing
 
