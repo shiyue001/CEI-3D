@@ -1,6 +1,6 @@
 # CEI-3D
 
-prototype of physics-based nerf editing
+![Alt text](URL_or_relative_path_to_your_gif)
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
