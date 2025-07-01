@@ -27,7 +27,7 @@ We provide a demo of our interactive editing interface below:
 - 🔄 **Collaborative explicit-implicit representation**
 - 🎨 **Fine-grained control over geometry and appearance**
 - 🧩 **Realistic and seamlessly integrated editing**
-- ✏️ **Support Part-aware editing**
+- ✏️ **Support part-aware editing**
 
 
 ### Data Preparation
