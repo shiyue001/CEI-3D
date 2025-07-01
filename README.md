@@ -30,7 +30,7 @@ We provide a demo of our interactive editing interface below:
 - ✏️ **Support part-aware editing**
 
 ### Environment Preparation
-pip install -r env_requirement.py
+Please refer to environments.yml
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
