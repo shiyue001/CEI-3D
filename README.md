@@ -1,7 +1,7 @@
 <p align="center">
   <h2>
     ✨ CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction<br>
-    for Realistic and Fine-Grained Object Editing
+             for Realistic and Fine-Grained Object Editing
   </h2>
 </p>
 Welcome to the official code repository for **CEI-3D**! 🚀  
