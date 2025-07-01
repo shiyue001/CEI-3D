@@ -29,6 +29,8 @@ We provide a demo of our interactive editing interface below:
 - 🧩 **Realistic and seamlessly integrated editing**
 - ✏️ **Support part-aware editing**
 
+### Environment Preparation
+pip install -r env_requirement.py
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
