@@ -1,7 +1,9 @@
 <p align="center">
-  <h2>✨ CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction for Realistic and Fine-Grained Object Editing</h2>
+  <h2>
+    ✨ CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction<br>
+    for Realistic and Fine-Grained Object Editing
+  </h2>
 </p>
-
 Welcome to the official code repository for **CEI-3D**! 🚀  
 This project enables highly realistic and fine-grained 3D object editing from multi-view images, powered by a collaborative explicit-implicit design.
 
