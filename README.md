@@ -30,7 +30,7 @@ We provide a demo of our interactive editing interface below:
 - ✏️ **Support part-aware editing**
 
 ### Environment Preparation
-Please refer to environments.yml
+Please refer to environment.yml
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
