@@ -25,15 +25,14 @@ We provide a demo of our interactive editing interface below:
 ## 🧠 Key Features
 
 - 🔄 **Collaborative explicit-implicit representation**
-- 🎨 **Fine-grained control over geometry, texture, and lighting**
-- 🧩 **Physically-consistent property disentanglement**
-- ✏️ **Single-view scribble-based editing**
+- 🎨 **Fine-grained control over geometry and appearance**
+- 🧩 **Realistic and seamlessly integrated editing**
+- ✏️ **Support Part-aware editing**
 
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
 Link: https://drive.google.com/drive/folders/19hmE0WvYfw-eKXObTCK065rojphr_0iQ?usp=drive_link
-
 NeRF-Synthetic: use code in code/dataset/...
 
 ### How to Run
@@ -42,14 +41,6 @@ Terminal Commands
 
 ```bash
 cd codes
-## use a mesh to fit sdf and then edit
-# sampling sdf data
-python geometry_editing/sdf_sampling.py 
-# finetuning sdf
-python geometry_editing/sdf_finetune.py
-## freeze the geomrtry and then train uneditied models
-python training/two_stage_training/exp_runner_unedited_models.py --conf confs_sg/default_two_stage_training.conf --data_split_dir ../example_data/kitty/train --expname kitty --nepoch 2000 --max_niter 200001 --gamma 1.0
-## edit, refer to the following "color editing & texture editing"
 
 ## train uneditied models
 python training/two_stage_training/exp_runner_unedited_models.py --conf confs_sg/default_two_stage_training.conf --data_split_dir ../example_data/kitty/train --expname kitty --nepoch 2000 --max_niter 200001 --gamma 1.0
