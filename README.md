@@ -5,7 +5,7 @@
   </h2>
 </p>
 Welcome to the official code repository for 🚀 🚀 CEI-3D! 🚀 🚀
-This project enables highly realistic and ##fine-grained## 3D object editing from multi-view images, powered by a collaborative explicit-implicit design.
+This project enables highly **realistic** and **fine-grained** 3D object editing from multi-view images, powered by a collaborative explicit-implicit design.
 
 ---
 
