@@ -68,4 +68,6 @@ python geometry_editing/diffuse_albedo_finetune.py
 # eval geometry editing
 python geometry_editing/eval_geometry_editing.py
 
+### Citation
+If you find our code or paper useful, please cite
 
