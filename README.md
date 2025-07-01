@@ -1,6 +1,30 @@
-# CEI-3D
+# ✨ CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction for Realistic and Fine-Grained Object Editing
 
-![Alt text](URL_or_relative_path_to_your_gif)
+Welcome to the official code repository for **CEI-3D**! 🚀  
+This project enables highly realistic and fine-grained 3D object editing from multi-view images, powered by a collaborative explicit-implicit design.
+
+---
+
+## 🎥 Interactive Demo
+
+We provide a demo of our interactive editing interface below:  
+(*We're adding support for electronic pen input to allow more precise control than a traditional mouse.*)
+
+<p align="center">
+  <img src="assets/demo.gif" width="600"/>
+  <br>
+  <em>Figure: Real-time editing interface using CEI-3D. 🎨🖌️</em>
+</p>
+
+---
+
+## 🧠 Key Features
+
+- 🔄 **Collaborative explicit-implicit representation**
+- 🎨 **Fine-grained control over geometry, texture, and lighting**
+- 🧩 **Physically-consistent property disentanglement**
+- ✏️ **Single-view scribble-based editing**
+
 
 ### Data Preparation
 DTU: we provide proccessed data on google drive. 
